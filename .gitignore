@@ -1,4 +1,6 @@
 GroovyInAction/bin/
 .settings
 .classpath
+.metadata
 .project
+Servers/
